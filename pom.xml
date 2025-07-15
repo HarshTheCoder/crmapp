@@ -28,6 +28,7 @@
 
 	<profiles>
 		<profile>
+		<id>smoke</id>
 			<build>
 				<plugins>
 					<plugin>
